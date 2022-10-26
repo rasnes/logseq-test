@@ -1,6 +1,5 @@
-public:: true
-
 - Presentation 26 October 2022 - `dbt` introduction
+	- public:: true
 	- What problems do `dbt` solve?
 	  collapsed:: true
 		- History: MapReduce, and then Spark
@@ -76,3 +75,4 @@ public:: true
 			- `bygg`
 				- consumes tables produced by `common`
 			-
+-
